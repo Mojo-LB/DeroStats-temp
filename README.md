@@ -119,5 +119,5 @@ Let’s Encrypt’s certificates are only valid for ninety days. This is to enco
 
 ### Created by [Zoz](https://github.com/Zozor54)
 
-* Thanks to [Mojo](https://github.com/Mojo-LB/) for your help and for the nginx configuration
+* [Mojo](https://github.com/Mojo-LB/) helped
 
